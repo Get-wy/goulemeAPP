@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561408 */
+    src: url('https://at.alicdn.com/t/font_561408_xllddf4bw29pmn29.eot');
+    src: url('https://at.alicdn.com/t/font_561408_xllddf4bw29pmn29.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_561408_xllddf4bw29pmn29.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_561408_xllddf4bw29pmn29.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_561408_xllddf4bw29pmn29.svg#iconfont') format('svg');
+}
+header
+{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0.3rem;
+}
+.title1
+{
+    width: 100%;
+    height: 1rem;
+    background-color: #ffffff;
+    text-align: center;
+    margin-bottom: 0.3rem;
+    padding:0 0.34rem;
+}
+.back
+{
+    height: 0.8rem;
+    font-size: 0.8rem;
+    color: #999999;
+    font-family: 'iconfont';
+    line-height: 0.8rem;
+    padding-top: 0.1rem;
+    float: left;
+}
+.title1_zi
+{
+    font-size: 0.6rem;
+    color: #7a7677;
+    float: left;
+    margin-top: 0.1rem;
+    margin-left: 3rem;
+}
+body
+{
+
+    background: #eeeeee;
+}
+.title2
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color: #ffffff;
+    padding:0 0.34rem;
+    line-height: 1.5rem;
+}
+.title2_zi
+{
+    font-size: 0.5rem;
+
+    float: left;
+}
+.title2_tu
+{
+    float: right;
+    width: 2.5rem;
+}
+.title2_icon
+{
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: 50%;
+    background-color: #999999;
+    margin-top: 0.1rem;
+    float: left;
+    margin-right: 0.2rem;
+}
+.title2_font
+{
+    font-size:0.5rem;
+    color:#999999;
+    font-family: 'iconfont';
+    float: right;
+}
+.title_nicheng
+{
+    font-size: 0.5rem;
+    color: #999999;
+    float: left;
+    width: 1.5rem;
+    overflow: hidden;
+}
+.title2_bordr
+{
+    margin-bottom: 0.1rem;
+}
